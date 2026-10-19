@@ -52,12 +52,6 @@ I'm a Software Engineer at **EPAM Systems**, passionate about building scalable 
 
 ---
 
-
-- **Focus:** Application architecture, API development, and maintainable code.
-- **Technologies:** Add the final frontend and backend stack used in the repository.
-
----
-
 ### 🎓 Education
 
 **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**
