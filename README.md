@@ -52,22 +52,6 @@ I'm a Software Engineer at **EPAM Systems**, passionate about building scalable 
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🍔 Food Delivery Platform
-A microservices-based backend application designed to support scalable food ordering and delivery workflows.
-
-- **Technologies:** Java 17, Spring Boot 3, Spring Cloud, Kafka, Redis, DynamoDB, JWT, AWS.
-- **Highlights:** Service discovery, API gateway, event-driven communication, authentication, and fault tolerance.
-
-#### 🛍️ HomeKart — Hyperlocal E-commerce
-A project focused on connecting customers with local merchants for convenient shopping and celebration-product delivery.
-
-- **Focus:** Hyperlocal commerce, order management, and customer experience.
-- **Goal:** Explore technology-driven commerce for smaller Indian cities.
-
-#### ⚙️ TaskFlow
-A software development project focused on task management and workflow organization.
 
 - **Focus:** Application architecture, API development, and maintainable code.
 - **Technologies:** Add the final frontend and backend stack used in the repository.
